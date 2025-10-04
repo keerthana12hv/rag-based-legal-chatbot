@@ -1,0 +1,120 @@
+Q: What is the IT Act, 2000? (short)
+A: The IT Act, 2000 is India’s law on electronic records, digital signatures, and cybercrime.
+
+Q: What is the IT Act, 2000? (detailed)
+A: The Information Technology Act, 2000 regulates digital transactions, electronic records, and cybersecurity in India. It provides legal recognition to e-commerce and digital signatures, while also prescribing penalties for cybercrimes such as hacking, identity theft, and online fraud. The Act was amended in 2008 to address data protection, cyber terrorism, and intermediary liability.
+
+---
+
+Q: What is hacking under the IT Act? (short)
+A: Section 66 – hacking is punishable with up to 3 years imprisonment or fine up to ₹5 lakh.
+
+Q: What is hacking under the IT Act? (detailed)
+A: Section 66 of the IT Act defines hacking as unauthorized access, alteration, or destruction of computer systems or networks with malicious intent.  
+Punishment: imprisonment up to 3 years, or fine up to ₹5 lakh, or both.  
+
+---
+
+Q: What is identity theft under the IT Act? (short)
+A: Section 66C – identity theft punishable with up to 3 years imprisonment and fine up to ₹1 lakh.
+
+Q: What is identity theft under the IT Act? (detailed)
+A: Section 66C criminalizes fraudulent use of someone else’s password, digital signature, or personal identification data.  
+Examples: using another person’s Aadhaar, PAN, or credit card details.  
+Punishment: imprisonment up to 3 years and fine up to ₹1 lakh.  
+
+---
+
+Q: What is phishing or online fraud under the IT Act? (short)
+A: Section 66D – cheating by impersonation using computers; up to 3 years imprisonment and ₹1 lakh fine.
+
+Q: What is phishing or online fraud under the IT Act? (detailed)
+A: Section 66D penalizes cheating by personation through computer resources.  
+Examples: fake lottery emails, online banking scams, job frauds.  
+Punishment: imprisonment up to 3 years and fine up to ₹1 lakh.  
+
+---
+
+Q: What is publishing obscene content online? (short)
+A: Section 67 – imprisonment up to 3 years and fine up to ₹5 lakh (first conviction).
+
+Q: What is publishing obscene content online? (detailed)
+A: Section 67 prohibits publishing or transmitting obscene material in electronic form.  
+- First conviction: imprisonment up to 3 years and fine up to ₹5 lakh.  
+- Subsequent convictions: imprisonment up to 5 years and fine up to ₹10 lakh.  
+Sections 67A and 67B deal with sexually explicit material and child pornography, carrying stricter penalties.  
+
+---
+
+Q: What is cyber terrorism under the IT Act? (short)
+A: Section 66F – life imprisonment.
+
+Q: What is cyber terrorism under the IT Act? (detailed)
+A: Section 66F criminalizes acts intended to threaten national security, damage sovereignty, or cause death through computer resources.  
+Examples: hacking into defense systems, spreading malware to paralyze critical infrastructure.  
+Punishment: imprisonment for life.  
+
+---
+
+Q: What is data theft under the IT Act? (short)
+A: Section 43 – compensation up to ₹1 crore.
+
+Q: What is data theft under the IT Act? (detailed)
+A: Section 43 penalizes unauthorized access, downloading, copying, or extraction of data from a computer without permission.  
+This includes corporate data theft or stealing software source code.  
+Penalty: compensation to the affected party up to ₹1 crore.  
+
+---
+
+Q: What are the responsibilities of intermediaries (like social media)? (short)
+A: Section 79 – intermediaries must remove illegal content when notified.
+
+Q: What are the responsibilities of intermediaries (like social media)? (detailed)
+A: Section 79 provides safe harbor to intermediaries (social media, ISPs, platforms) if they act only as facilitators.  
+However, they must:  
+- Not initiate or modify data.  
+- Remove unlawful content when notified by government or court.  
+Failure to comply makes them liable for prosecution.  
+
+---
+
+Q: What is cyberstalking under the IT Act? (short)
+A: Covered under Section 66E (privacy violation) and IPC Section 354D.
+
+Q: What is cyberstalking under the IT Act? (detailed)
+A: While not separately defined in the IT Act, cyberstalking is covered under:  
+- Section 66E (violation of privacy by capturing/ sharing images without consent).  
+- IPC Section 354D (stalking, including online).  
+Punishment: imprisonment up to 3 years for first offense, 5 years for repeat, plus fine.  
+
+---
+
+Q: What is publishing child pornography under the IT Act? (short)
+A: Section 67B – up to 5 years imprisonment and fine up to ₹10 lakh (first offense).
+
+Q: What is publishing child pornography under the IT Act? (detailed)
+A: Section 67B criminalizes publishing or transmitting material that depicts children in sexual acts.  
+Punishment:  
+- First conviction: imprisonment up to 5 years and fine up to ₹10 lakh.  
+- Subsequent: imprisonment up to 7 years and fine up to ₹10 lakh.  
+
+---
+
+Q: Can police arrest without warrant for IT Act offenses? (short)
+A: Yes, for cognizable offenses like cyber terrorism.
+
+Q: Can police arrest without warrant for IT Act offenses? (detailed)
+A: The IT Act specifies which offenses are cognizable and bailable.  
+- Cognizable offenses (e.g., cyber terrorism, hacking critical systems): police can arrest without warrant.  
+- Non-cognizable offenses (e.g., some data theft cases): need Magistrate approval.  
+
+---
+
+Q: Is sending threatening or offensive messages online punishable? (short)
+A: Yes, under Section 66 and IPC Sections 503–506.
+
+Q: Is sending threatening or offensive messages online punishable? (detailed)
+A: While Section 66A (offensive messages) was struck down by the Supreme Court in 2015, threats and harassment online are still punishable under:  
+- Section 66 (hacking/misuse of computer).  
+- IPC Sections 503–506 (criminal intimidation).  
+Punishment: imprisonment and fine depending on case facts.  

@@ -1,0 +1,129 @@
+Q: What is the minimum age to get a driving license in India? (short)
+A: 18 years for private vehicles, 16 years for gearless two-wheelers (with parental consent).
+
+Q: What is the minimum age to get a driving license in India? (detailed)
+A: Under the Motor Vehicles Act, 1988:
+- 16 years: eligible for gearless two-wheelers up to 50cc (with parental consent).  
+- 18 years: eligible for motorcycles with gear and private cars.  
+- 20 years: minimum for commercial driving licenses (taxis, trucks, buses).  
+
+---
+
+Q: What documents are required for a driving license? (short)
+A: Proof of age, proof of address, learner’s license, photos.
+
+Q: What documents are required for a driving license? (detailed)
+A: To apply for a permanent driving license, applicants must provide:  
+- Proof of age (birth certificate, Aadhaar, PAN, passport),  
+- Proof of address (utility bill, ration card, Aadhaar, rental agreement),  
+- Valid learner’s license,  
+- Passport-size photographs,  
+- Application forms and fees (as prescribed by RTO).  
+
+---
+
+Q: What is third-party insurance? (short)
+A: Mandatory insurance covering injury or damage caused to others.
+
+Q: What is third-party insurance? (detailed)
+A: Third-party liability insurance is compulsory under the Motor Vehicles Act, 1988.  
+It covers:  
+- Death or bodily injury to a third party,  
+- Damage to another person’s property or vehicle.  
+It does not cover damage to the insured’s own vehicle (for that, a comprehensive insurance policy is required).  
+
+---
+
+Q: What happens if you drive without a license? (short)
+A: Fine of ₹5,000 and possible imprisonment.
+
+Q: What happens if you drive without a license? (detailed)
+A: Driving without a valid license is an offense under Section 181 of the Motor Vehicles Act.  
+Penalty:  
+- Fine of ₹5,000, and/or  
+- Imprisonment up to 3 months.  
+In addition, vehicles may be seized, and insurance claims can be denied.  
+
+---
+
+Q: How can I check vehicle registration details? (short)
+A: On Parivahan portal or mParivahan app.
+
+Q: How can I check vehicle registration details? (detailed)
+A: Vehicle registration details can be checked online through:  
+- Parivahan Sewa (www.parivahan.gov.in),  
+- mParivahan mobile app,  
+- State transport websites.  
+You can view owner name, registration date, validity, insurance details, and pending challans.  
+
+---
+
+Q: What is the penalty for drunk driving? (short)
+A: Fine up to ₹10,000 and imprisonment.
+
+Q: What is the penalty for drunk driving? (detailed)
+A: Under Section 185 of the Motor Vehicles Act:  
+- First offense: fine up to ₹10,000 and/or imprisonment up to 6 months, plus license suspension.  
+- Subsequent offenses: fine up to ₹15,000 and imprisonment up to 2 years.  
+Drunk driving is determined by alcohol level above 30 mg per 100 ml of blood (breathalyzer test).  
+
+---
+
+Q: What is the penalty for overspeeding? (short)
+A: Fine between ₹1,000–₹2,000 for two-wheelers and LMVs.
+
+Q: What is the penalty for overspeeding? (detailed)
+A: Under Section 183 of the Motor Vehicles Act:  
+- Two-wheelers/LMVs: fine ₹1,000–₹2,000.  
+- Medium/heavy vehicles: fine ₹2,000–₹4,000.  
+Repeat violations may result in license disqualification or vehicle seizure.  
+
+---
+
+Q: Is wearing a helmet mandatory? (short)
+A: Yes, for riders and pillion passengers.
+
+Q: Is wearing a helmet mandatory? (detailed)
+A: Under Section 129 of the Motor Vehicles Act, wearing a BIS-certified helmet is mandatory for both rider and pillion on two-wheelers.  
+Penalty: ₹1,000 fine and suspension of license for 3 months.  
+
+---
+
+Q: Is wearing a seatbelt mandatory? (short)
+A: Yes, for drivers and passengers.
+
+Q: Is wearing a seatbelt mandatory? (detailed)
+A: Section 194B makes seatbelts compulsory for drivers and front-seat passengers. Many states also require rear passengers to wear seatbelts.  
+Penalty: fine of ₹1,000 for violation.  
+
+---
+
+Q: What is a hit-and-run case? (short)
+A: Accident where driver flees without informing authorities.
+
+Q: What is a hit-and-run case? (detailed)
+A: A hit-and-run is when a driver causes an accident and leaves without reporting to police or helping victims.  
+Penalty under Motor Vehicles (Amendment) Act, 2019:  
+- Causing death: imprisonment up to 10 years and/or fine ₹7 lakh.  
+- Causing injury: imprisonment up to 2 years and/or fine ₹2 lakh.  
+
+---
+
+Q: What is e-Challan? (short)
+A: Digital traffic fine issued online.
+
+Q: What is e-Challan? (detailed)
+A: An e-Challan is a digital notice issued by traffic police for rule violations (overspeeding, signal jump, helmet/seatbelt violation).  
+It can be paid through the Parivahan portal, state RTO websites, or mobile apps like Paytm.  
+
+---
+
+Q: Can I drive with a learner’s license? (short)
+A: Yes, with conditions.
+
+Q: Can I drive with a learner’s license? (detailed)
+A: A learner’s license allows you to drive on public roads provided:  
+- A permanent license holder sits beside you (for cars).  
+- You display an "L" board on your vehicle.  
+- You do not drive on highways or at night (in many states).  
+It is valid for 6 months, after which you must apply for a permanent license.  

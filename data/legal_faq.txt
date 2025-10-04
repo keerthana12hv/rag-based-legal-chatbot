@@ -1,0 +1,205 @@
+Q: What is an FIR? (short)
+A: An FIR (First Information Report) is a complaint given to the police when a cognizable offense occurs.
+
+Q: What is an FIR? (detailed)
+A: An FIR (First Information Report) is the first step in a criminal case under Section 154 of the CrPC. It is filed at the police station by the victim or witness and must include details of the offense. The police are legally bound to register it for cognizable offenses like murder, theft, or assault.
+
+---
+
+Q: How do I file a case in court? (short)
+A: Draft a complaint (plaint), submit it to the correct court, and pay the court fee.
+
+Q: How do I file a case in court? (detailed)
+A: To file a civil case, a complaint (plaint) must be drafted, signed, and submitted to the appropriate court with the prescribed court fee. The court reviews the complaint, admits it if valid, and issues summons to the opposite party. In criminal cases, the process begins with FIR registration.
+
+---
+
+Q: What are consumer rights in India? (short)
+A: Safety, information, choice, and redressal.
+
+Q: What are consumer rights in India? (detailed)
+A: The Consumer Protection Act, 2019 grants six major rights:  
+1. Right to Safety,  
+2. Right to be Informed,  
+3. Right to Choose,  
+4. Right to Seek Redressal,  
+5. Right to Consumer Education,  
+6. Right to be Heard.  
+
+---
+
+Q: How can I return a faulty product? (short)
+A: Contact the seller or file a complaint with the Consumer Commission.
+
+Q: How can I return a faulty product? (detailed)
+A: First, approach the seller or online marketplace through return/refund mechanisms. If unresolved, you may file a complaint with the District Consumer Commission, along with proof of purchase and defect. The Commission can order replacement, refund, or compensation.
+
+---
+
+Q: What is bail? (short)
+A: Temporary release of an accused while trial is ongoing.
+
+Q: What is bail? (detailed)
+A: Bail is the conditional release of an accused person during trial.  
+- Bailable offenses (like minor thefts): bail is a right under Section 436 CrPC.  
+- Non-bailable offenses (like murder): bail is at the discretion of the court under Sections 437/439 CrPC.  
+
+---
+
+Q: What is EPF? (short)
+A: A retirement savings scheme.
+
+Q: What is EPF? (detailed)
+A: The Employees’ Provident Fund (EPF) is a retirement savings scheme where both employer and employee contribute 12% of wages each month. The fund earns interest and can be withdrawn at retirement, unemployment, or emergencies.
+
+---
+
+Q: What is RTI? (short)
+A: The Right to Information Act allows citizens to seek information from government authorities.
+
+Q: What is RTI? (detailed)
+A: The Right to Information Act, 2005 gives every citizen the right to request information from public authorities. Authorities must respond within 30 days. It promotes transparency and accountability in governance.
+
+---
+
+Q: What is PIL? (short)
+A: A case filed in public interest.
+
+Q: What is PIL? (detailed)
+A: A Public Interest Litigation (PIL) is filed by any citizen or NGO in High Courts or the Supreme Court for matters affecting the public at large, like environmental protection, corruption, or human rights violations.
+
+---
+
+Q: What are Fundamental Rights? (short)
+A: Equality, Freedom, Religion, Cultural/Educational Rights, Remedies.
+
+Q: What are Fundamental Rights? (detailed)
+A: The Constitution of India guarantees six Fundamental Rights:  
+1. Right to Equality,  
+2. Right to Freedom,  
+3. Right against Exploitation,  
+4. Right to Freedom of Religion,  
+5. Cultural and Educational Rights,  
+6. Right to Constitutional Remedies.  
+
+---
+
+Q: What are Fundamental Duties? (short)
+A: Respect Constitution, protect environment, safeguard property.
+
+Q: What are Fundamental Duties? (detailed)
+A: Citizens are expected to: respect the Constitution, cherish national heritage, protect the environment, safeguard public property, promote harmony, and uphold unity and integrity of India.  
+
+---
+
+Q: What is domestic violence? (short)
+A: Abuse by a spouse or family member.
+
+Q: What is domestic violence? (detailed)
+A: The Protection of Women from Domestic Violence Act, 2005 covers physical, emotional, verbal, sexual, and economic abuse within households. Victims can seek protection orders, residence rights, and monetary relief through courts.
+
+---
+
+Q: What is dowry harassment? (short)
+A: Demanding dowry is illegal.
+
+Q: What is dowry harassment? (detailed)
+A: Dowry harassment is punishable under the Dowry Prohibition Act, 1961 and Section 498A IPC. It includes demanding dowry, cruelty, or harassment of women by husband or in-laws. Penalty: imprisonment up to 3 years and fine.
+
+---
+
+Q: What are the stages of a criminal trial? (short)
+A: FIR → Investigation → Charge Sheet → Trial → Judgment → Appeal.
+
+Q: What are the stages of a criminal trial? (detailed)
+A: A criminal trial typically follows:  
+1. FIR registration,  
+2. Police investigation,  
+3. Filing of charge sheet,  
+4. Trial in court (evidence, witnesses, cross-examination),  
+5. Judgment by the court,  
+6. Appeal in higher courts if applicable.  
+
+---
+
+Q: How can I file a cybercrime complaint? (short)
+A: At Cyber Crime Cell or online portal.
+
+Q: How can I file a cybercrime complaint? (detailed)
+A: Victims of cybercrimes can file complaints at local Cyber Crime Cells or through the National Cyber Crime Reporting Portal (www.cybercrime.gov.in). FIR can also be lodged at the nearest police station.  
+
+---
+
+Q: What is third-party vehicle insurance? (short)
+A: Insurance covering damage caused to others.
+
+Q: What is third-party vehicle insurance? (detailed)
+A: Third-party liability insurance is mandatory under the Motor Vehicles Act. It covers bodily injury, death, or property damage caused to others in an accident by the insured vehicle.  
+
+---
+
+Q: What documents are required for a driving license? (short)
+A: Proof of age, address, learner’s license, photos.
+
+Q: What documents are required for a driving license? (detailed)
+A: To apply for a driving license, applicants need:  
+- Age proof (birth certificate, Aadhaar, PAN),  
+- Address proof (ration card, utility bill, Aadhaar),  
+- Learner’s license,  
+- Passport-size photographs.  
+
+---
+
+Q: What is maternity leave under Indian law? (short)
+A: 26 weeks of paid leave.
+
+Q: What is maternity leave under Indian law? (detailed)
+A: The Maternity Benefit Act, 1961 (amended 2017) grants 26 weeks of paid leave to eligible women employees. For women with two or more children, leave is limited to 12 weeks.  
+
+---
+
+Q: What are common cybercrimes? (short)
+A: Hacking, phishing, fraud, identity theft.
+
+Q: What are common cybercrimes? (detailed)
+A: Common cybercrimes under the IT Act include hacking, phishing, online fraud, identity theft, cyberstalking, and publishing obscene or fake content online. Penalties vary by offense (Sections 43, 66, 67, etc.).  
+
+---
+
+Q: What is a cognizable offense? (short)
+A: Police can arrest without court approval.
+
+Q: What is a cognizable offense? (detailed)
+A: A cognizable offense is one where police can register an FIR and arrest without a magistrate’s order (e.g., murder, rape, theft).  
+
+---
+
+Q: What is a non-cognizable offense? (short)
+A: Police need court permission to act.
+
+Q: What is a non-cognizable offense? (detailed)
+A: Non-cognizable offenses require magistrate’s approval before police can register a case or arrest. Examples: defamation, public nuisance.  
+
+---
+
+Q: What is sexual harassment at workplace? (short)
+A: Protection under the POSH Act, 2013.
+
+Q: What is sexual harassment at workplace? (detailed)
+A: The Sexual Harassment of Women at Workplace (POSH) Act, 2013 mandates all workplaces with 10+ employees to have an Internal Complaints Committee (ICC). It protects women against physical contact, unwelcome sexual advances, or hostile work environments.  
+
+---
+
+Q: What is judicial review? (short)
+A: Court review of laws.
+
+Q: What is judicial review? (detailed)
+A: Judicial review is the power of courts to examine laws and executive actions to ensure they don’t violate the Constitution. The Supreme Court and High Courts can strike down unconstitutional laws.  
+
+---
+
+Q: What is the National Green Tribunal (NGT)? (short)
+A: A tribunal for environmental cases.
+
+Q: What is the National Green Tribunal (NGT)? (detailed)
+A: The NGT was established in 2010 to handle cases related to environmental protection, pollution, and forest conservation. It provides speedy disposal of cases and enforces legal rights relating to the environment.  

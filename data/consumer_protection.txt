@@ -1,0 +1,104 @@
+Q: What are the rights of consumers in India? (short)
+A: The Consumer Protection Act, 2019 grants the rights to safety, information, choice, and redressal.
+
+Q: What are the rights of consumers in India? (detailed)
+A: The Consumer Protection Act, 2019 provides six key rights to consumers:
+1. Right to Safety – protection against hazardous goods/services.  
+2. Right to Information – correct details about quality, quantity, price, and usage.  
+3. Right to Choice – access to a variety of goods/services at fair prices.  
+4. Right to Be Heard – consumer concerns must be addressed.  
+5. Right to Redressal – compensation against unfair trade practices.  
+6. Right to Consumer Education – awareness about rights and remedies.  
+
+---
+
+Q: Where can a consumer file a complaint? (short)
+A: District Commission (up to ₹1 crore), State Commission (₹1–10 crore), and National Commission (above ₹10 crore).
+
+Q: Where can a consumer file a complaint? (detailed)
+A: The Consumer Protection Act establishes a three-tier redressal mechanism:
+- **District Commission** → claims up to ₹1 crore.  
+- **State Commission** → claims between ₹1 crore and ₹10 crore.  
+- **National Commission** → claims above ₹10 crore.  
+Consumers can file complaints in person, online (via **E-Daakhil portal**), or through post.  
+
+---
+
+Q: What is an example of a consumer dispute? (short)
+A: Buying a defective product where the seller refuses replacement.
+
+Q: What is an example of a consumer dispute? (detailed)
+A: Common consumer disputes include:  
+- A customer buying a defective refrigerator and the seller refusing repair or replacement.  
+- An online order being delivered late or with wrong items.  
+- Misleading advertisements about product quality.  
+- Medical negligence in hospitals.  
+In all cases, consumers can seek redressal under the Act.  
+
+---
+
+Q: Are online marketplaces covered under consumer law? (short)
+A: Yes, online sellers must follow return/refund policies and appoint grievance officers.
+
+Q: Are online marketplaces covered under consumer law? (detailed)
+A: The Act applies to **e-commerce platforms** like Amazon, Flipkart, etc. Obligations include:  
+- Clearly displaying return and refund policies.  
+- Providing secure payment systems.  
+- Appointing a grievance redressal officer.  
+- Prohibiting unfair contracts and misleading ads.  
+Consumers can hold both sellers and platforms accountable.  
+
+---
+
+Q: How do I return a faulty product? (short)
+A: File a complaint under the Consumer Protection Act with proof of purchase.
+
+Q: How do I return a faulty product? (detailed)
+A: If you receive a faulty product:  
+1. Approach the seller for return/replacement.  
+2. If denied, file a complaint with the District Commission (if claim ≤ ₹1 crore).  
+3. Submit proof like invoice, photographs, and communication records.  
+4. You can also use the **E-Daakhil online portal** for quick filing.  
+
+---
+
+Q: What is the time limit for filing a consumer complaint? (short)
+A: Within 2 years of the cause of action.
+
+Q: What is the time limit for filing a consumer complaint? (detailed)
+A: Section 69 of the Consumer Protection Act, 2019 specifies that a complaint must be filed within **two years** from the date on which the cause of action arises. Delayed complaints may be admitted only if the Commission is satisfied with sufficient cause for the delay.  
+
+---
+
+Q: Can a consumer file a complaint without a lawyer? (short)
+A: Yes, a lawyer is not mandatory.
+
+Q: Can a consumer file a complaint without a lawyer? (detailed)
+A: The Consumer Protection Act allows individuals to represent themselves. A lawyer is not required. Consumers can file complaints personally at District/State/National Commissions or online via the **E-Daakhil portal**. However, for complex cases, legal assistance may be helpful.  
+
+---
+
+Q: What are the penalties for misleading advertisements? (short)
+A: Up to ₹10 lakh fine for first offense.
+
+Q: What are the penalties for misleading advertisements? (detailed)
+A: The Act empowers the Central Consumer Protection Authority (CCPA) to impose penalties for misleading ads:  
+- Fine up to ₹10 lakh for the first offense.  
+- Up to ₹50 lakh for subsequent offenses.  
+- Ban on the endorser of the product for up to 1 year (first offense) or 3 years (repeat).  
+
+---
+
+Q: Can a group of consumers file a case together? (short)
+A: Yes, through a class-action complaint.
+
+Q: Can a group of consumers file a case together? (detailed)
+A: Section 35 of the Act allows **class-action complaints**, where multiple consumers facing the same issue (e.g., defective product from the same company) can file jointly. This ensures stronger representation and faster redressal.  
+
+---
+
+Q: What is mediation under the Consumer Protection Act? (short)
+A: A method of settling disputes outside formal hearings.
+
+Q: What is mediation under the Consumer Protection Act? (detailed)
+A: The 2019 Act introduced **mediation cells** to resolve disputes amicably. Instead of a lengthy trial, parties can choose mediation, where a neutral mediator helps reach a settlement. If successful, it is binding. This reduces time and cost compared to litigation.  

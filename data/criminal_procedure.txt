@@ -1,0 +1,101 @@
+Q: What is an FIR? (short)
+A: An FIR (First Information Report) is a complaint given to the police when a cognizable offense occurs. It is the first step in a criminal case.
+
+Q: What is an FIR? (detailed)
+A: An FIR (First Information Report) is the first formal record of information about a cognizable offense under Section 154 CrPC. It is usually filed at the police station by the victim, a witness, or any person aware of the offense. The FIR records basic facts (what happened, where, when, persons involved) and starts the official police investigation. Once registered, the police are required to investigate the matter.
+
+Q: Tell me about FIR (short)
+A: An FIR is the First Information Report — the police record of a cognizable offense.
+
+Q: Tell me about FIR (detailed)
+A: (Same as "What is an FIR? (detailed)") An FIR records the initial information of a cognizable crime and triggers police investigation. It should be recorded by the duty officer and a free copy must be provided to the complainant. If police refuse to register an FIR, the complainant can approach a higher officer or the Magistrate.
+
+Q: How do I file an FIR? (short)
+A: Go to the nearest police station, report the cognizable offense, and the officer will record your statement.
+
+Q: How do I file an FIR? (detailed)
+A: To file an FIR: (1) Visit the nearest police station or use online portals (where available); (2) Give an oral or written statement about the incident; (3) The officer records your statement and prepares the FIR; (4) The complainant signs the FIR and receives a free copy; (5) If police refuse, you can file a private complaint before a Magistrate under Section 156(3) CrPC or approach higher police authorities. Keep all evidence (photos, messages, receipts).
+
+Q: How to lodge an FIR? (short)
+A: Report the incident at the police station or use an online police/Cyber Crime portal.
+
+Q: How to lodge an FIR? (detailed)
+A: (Same as "How do I file an FIR? (detailed)") Include as many facts and evidence as possible. For cyber offenses, use the National Cyber Crime Portal or the local Cyber Cell, and retain logs/screenshots.
+
+Q: What is the process of filing an FIR? (short)
+A: Report the incident, the officer records the FIR, and an investigation begins.
+
+Q: What is the process of filing an FIR? (detailed)
+A: The process: complainant reports the cognizable offense → duty officer records the FIR → FIR is entered in the station diary and registered → police begin investigation (collect evidence, record statements) → if evidence is sufficient, a charge sheet is filed in court; if not, the case may be closed with reasons.
+
+Q: What happens if police refuse to register an FIR? (short)
+A: You can approach a Magistrate or higher police officer or file a private complaint.
+
+Q: What happens if police refuse to register an FIR? (detailed)
+A: Remedies: (1) Approach the Superintendent of Police or Commissioner; (2) File a private complaint before the Magistrate under Section 156(3) CrPC who can direct police to investigate; (3) Approach the High Court via writ petition in case of inaction. Refusal to register an FIR can be challenged and may amount to dereliction of duty.
+
+Q: What are the stages of a criminal trial in India? (short)
+A: FIR → Investigation → Charge Sheet → Trial → Judgment → Appeal.
+
+Q: What are the stages of a criminal trial in India? (detailed)
+A: Stages explained: FIR registration → police investigation (evidence collection) → submission of charge sheet under Section 173 CrPC if evidence exists → framing of charges by the Magistrate → trial (prosecution and defense present evidence and witnesses) → judgment (conviction or acquittal) → appeal to higher courts (Sessions/High Court/Supreme Court) if aggrieved.
+
+Q: What is a charge sheet? (short)
+A: A police report that presents the evidence against the accused to the court.
+
+Q: What is a charge sheet? (detailed)
+A: A charge sheet is the document prepared by police after investigation (Section 173 CrPC) containing details of the offense, statements of witnesses, and evidence. It is submitted to the Magistrate and forms the basis of prosecution.
+
+Q: What is bail? (short)
+A: Temporary release of an accused on furnishing security until the trial concludes.
+
+Q: What is bail? (detailed)
+A: Bail allows temporary release of an accused during trial, usually on a bond or surety. For bailable offenses (e.g., minor theft), bail is a matter of right and police/Magistrate must release the accused. For non-bailable offenses (serious crimes), bail is discretionary and granted by the court based on factors like gravity of offense, flight risk, and tampering with evidence. Bail can have conditions, such as surrender of passport or regular court attendance.
+
+Q: How to get bail? (short)
+A: Apply to the police (for bailable offenses) or to the Magistrate/Court (for non-bailable).
+
+Q: How to get bail? (detailed)
+A: Procedure: For bailable offenses, police can grant bail immediately. For non-bailable offenses, file a bail application in the competent court arguing factors like the accused’s willingness to cooperate, weak evidence, or medical reasons. High courts and Supreme Court also hear special bail matters (anticipatory bail, regular bail).
+
+Q: What is anticipatory bail? (short)
+A: Pre-arrest bail granted when a person fears arrest.
+
+Q: What is anticipatory bail? (detailed)
+A: Under Section 438 CrPC, anticipatory bail allows a person to seek protection from arrest in anticipation of arrest in non-bailable offenses. Courts grant anticipatory bail subject to conditions, e.g., cooperation in investigation.
+
+Q: Can you appeal after conviction? (short)
+A: Yes, the convicted person may appeal to a higher court.
+
+Q: Can you appeal after conviction? (detailed)
+A: Appeals are available as per law: convicted persons can appeal to the Sessions Court, High Court, or Supreme Court depending on jurisdiction and the sentence awarded. Grounds include errors in law, improper appreciation of evidence, or procedural irregularities.
+
+Q: What is the difference between cognizable and non-cognizable offenses? (short)
+A: Cognizable → police can arrest and investigate; Non-cognizable → police need Magistrate’s permission.
+
+Q: What is the difference between cognizable and non-cognizable offenses? (detailed)
+A: Cognizable offenses (e.g., murder, robbery) allow police to register FIR and arrest without magistrate order. Non-cognizable offenses (e.g., simple hurt, defamation) require the complainant to approach Magistrate who may order investigation. The classification affects the procedure and urgency of police action.
+
+Q: What is a summons? (short)
+A: A court order to appear as a witness or accused.
+
+Q: What is a summons? (detailed)
+A: A summons is an order issued by a court directing a person to appear before it as a witness or an accused on a specified date. Non-compliance can result in contempt proceedings or issuance of warrant.
+
+Q: What is a warrant? (short)
+A: Court authorization to arrest a person.
+
+Q: What is a warrant? (detailed)
+A: A warrant is an order issued by a Magistrate or judge authorizing police to arrest and produce the accused before the court. Warrants are issued when the person fails to appear or where arrest is necessary.
+
+Q: What is remand? (short)
+A: Keeping an accused in police or judicial custody during investigation/trial.
+
+Q: What is remand? (detailed)
+A: Remand is the formal custody order by a Magistrate authorizing police custody (up to permitted days) or judicial custody (jail). Police custody is for interrogation; judicial custody is detention in jail while investigation/trial proceeds.
+
+Q: What if I want a detailed guide on filing FIR and follow-up? (short)
+A: Contact local police/Counsel or use online resources; keep evidence and copies of FIR.
+
+Q: What if I want a detailed guide on filing FIR and follow-up? (detailed)
+A: Steps: (1) File FIR at police station with details and evidence; (2) Obtain a copy of the FIR; (3) Track progress through station or court; (4) If unsatisfied, file complaint to superior officer or Magistrate; (5) Consult a lawyer for filing a private complaint or seeking judicial remedies. Keep communication records and photographic/forensic evidence safe.
